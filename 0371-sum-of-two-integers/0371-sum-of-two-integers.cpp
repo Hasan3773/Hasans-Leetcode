@@ -4,8 +4,8 @@ public:
         // The goal is to get the sum of two integers without using + or -
         // basically asking to implement algo that uses bitwise to do sum
 
-        // lets say we have 0001 + 0010, which is 1 + 2, the & operator would work to 0011
-        // but lets say 0011 + 0010, & would give us 0010
+        // lets say we have 0001 + 0010, which is 1 + 2, the | operator would work to 0011
+        // but lets say 0011 + 0010, | would give us 0010
         // Idea lets for loop through each of the ints, adding the right most bit, then 
         // right shifting, I think we might be able to carry ones 
         int mask = 0x1;
