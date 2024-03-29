@@ -1,19 +1,30 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
+        // corner cases
         if (x < 0) {
             return false;
         }
-
-        long long reversed = 0;
-        long long temp = x;
-
-        while (temp != 0) {
-            int digit = temp % 10;
-            reversed = reversed * 10 + digit;
-            temp /= 10;
+        if (x != 0 && (x % 10) == 0){
+            return false;
         }
+        
+        // we will reverse on the second half of the number 
+        int reversed = 0;
 
-        return (reversed == x);
+        while (x > reversed) {
+            
+            // Removes the last digit of the x and put the new num into reversed 
+            reversed = (reversed * 10) + (x % 10);
+            x /= 10;
+        }
+        
+        if (reversed == x){
+            return true;
+        }
+        if (x == reversed/10){
+            return true;
+        }
+        return false;
     }
 };
