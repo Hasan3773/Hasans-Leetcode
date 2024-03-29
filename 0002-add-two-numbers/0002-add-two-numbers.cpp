@@ -29,7 +29,7 @@ public:
             // calc the digit sum using the carry
             int sum = dig1 + dig2 + carry;
 
-            // create new node and puts the val without the carry in it
+            // create new node and puts the val with a safegaurd for the carry 
             ListNode* newNode = new ListNode(sum % 10);
 
             // calculates the carry 
