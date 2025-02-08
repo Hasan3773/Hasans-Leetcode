@@ -16,6 +16,7 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [1512-design-underground-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1512-design-underground-system) |
+| [1708-design-parking-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1708-design-parking-system) |
 | [2161-stock-price-fluctuation](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/2161-stock-price-fluctuation) |
 ## Heap (Priority Queue)
 |  |
@@ -29,4 +30,12 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [2161-stock-price-fluctuation](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/2161-stock-price-fluctuation) |
+## Simulation
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1708-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
