@@ -38,4 +38,12 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1708-design-parking-system) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
