@@ -50,4 +50,5 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
