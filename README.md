@@ -11,6 +11,7 @@ A collection of my solved leetcode questions!
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0125-valid-palindrome) |
 | [1512-design-underground-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1512-design-underground-system) |
 ## Design
 |  |
@@ -56,4 +57,8 @@ A collection of my solved leetcode questions!
 | [0196-delete-duplicate-emails](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0595-big-countries) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
