@@ -6,6 +6,7 @@ A collection of my solved leetcode questions!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0001-two-sum) |
 | [1512-design-underground-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1512-design-underground-system) |
 | [2161-stock-price-fluctuation](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/2161-stock-price-fluctuation) |
 ## String
@@ -42,6 +43,7 @@ A collection of my solved leetcode questions!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
