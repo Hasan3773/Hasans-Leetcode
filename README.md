@@ -7,6 +7,7 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1512-design-underground-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1512-design-underground-system) |
 | [2161-stock-price-fluctuation](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/2161-stock-price-fluctuation) |
 ## String
@@ -23,6 +24,7 @@ A collection of my solved leetcode questions!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2161-stock-price-fluctuation](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/2161-stock-price-fluctuation) |
 ## Data Stream
 |  |
@@ -39,12 +41,14 @@ A collection of my solved leetcode questions!
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1708-design-parking-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1708-design-parking-system) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0136-single-number) |
+| [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,4 +67,20 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0125-valid-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
