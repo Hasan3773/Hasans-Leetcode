@@ -89,4 +89,8 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
