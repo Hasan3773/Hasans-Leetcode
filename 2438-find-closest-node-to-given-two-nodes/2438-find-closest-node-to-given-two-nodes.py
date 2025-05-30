@@ -17,7 +17,7 @@ class Solution(object):
             dist[startNode] = 0 # what
 
             while queue:
-                currentNode = queue.pop()
+                currentNode = queue.pop(0)
                 if visited[currentNode]:
                     continue
                 visited[currentNode] = True
