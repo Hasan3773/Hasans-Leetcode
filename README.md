@@ -105,4 +105,8 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+## Linked List
+|  |
+| ------- |
+| [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 <!---LeetCode Topics End-->
