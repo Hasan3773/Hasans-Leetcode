@@ -9,6 +9,7 @@ A collection of my solved leetcode questions!
 | [0001-two-sum](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0359-logger-rate-limiter](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0359-logger-rate-limiter) |
 | [1512-design-underground-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1512-design-underground-system) |
 | [2161-stock-price-fluctuation](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/2161-stock-price-fluctuation) |
 ## String
@@ -19,6 +20,7 @@ A collection of my solved leetcode questions!
 ## Design
 |  |
 | ------- |
+| [0359-logger-rate-limiter](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0359-logger-rate-limiter) |
 | [1512-design-underground-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1512-design-underground-system) |
 | [1708-design-parking-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1708-design-parking-system) |
 | [2161-stock-price-fluctuation](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/2161-stock-price-fluctuation) |
@@ -30,6 +32,7 @@ A collection of my solved leetcode questions!
 ## Data Stream
 |  |
 | ------- |
+| [0359-logger-rate-limiter](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0359-logger-rate-limiter) |
 | [2161-stock-price-fluctuation](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/2161-stock-price-fluctuation) |
 ## Ordered Set
 |  |
