@@ -97,6 +97,7 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Concurrency
 |  |
 | ------- |
@@ -121,4 +122,12 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0945-snakes-and-ladders) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
