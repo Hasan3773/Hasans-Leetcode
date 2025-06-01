@@ -54,6 +54,7 @@ A collection of my solved leetcode questions!
 | [0128-longest-consecutive-sequence](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0136-single-number) |
 | [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0945-snakes-and-ladders](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0945-snakes-and-ladders) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -112,4 +113,12 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0945-snakes-and-ladders](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0945-snakes-and-ladders) |
+## Matrix
+|  |
+| ------- |
+| [0945-snakes-and-ladders](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0945-snakes-and-ladders) |
 <!---LeetCode Topics End-->
