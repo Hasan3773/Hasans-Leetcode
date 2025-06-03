@@ -29,8 +29,8 @@ class Solution(object):
         while q:
             cur = q.popleft()
             # checks if we already visited it and if not add to q?
-            if cur in visit:
-                continue # skips to the end of the for
+            #if cur in visit:
+              #  continue # skips to the end of the for
             visit.add(cur)
 
             if status[cur]:
