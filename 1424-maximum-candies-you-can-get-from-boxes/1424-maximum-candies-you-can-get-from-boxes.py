@@ -27,26 +27,25 @@ class Solution(object):
         visit = set()
 
         while q:
-            for i in range(len(q)):
-                cur = q.popleft()
-                # checks if we already visited it and if not add to q?
-                if cur in visit:
-                    continue # skips to the end of the for
-                visit.add(cur)
+            cur = q.popleft()
+            # checks if we already visited it and if not add to q?
+            if cur in visit:
+                continue # skips to the end of the for
+            visit.add(cur)
 
-                if status[cur]:
-                    numCandy += candies[cur]
-                    # main logic loop for each step
-                    for k in keys[cur]: # deals with keys
-                        if k in visit and status[k] == 0:
-                            status[k] = 1
-                            q.append(k)
-                            visit.remove(k)
-                        else: 
-                            status[k] = 1
-                    # add new boxes to q
-                    for box in containedBoxes[cur]:
-                        q.append(box)
+            if status[cur]:
+                numCandy += candies[cur]
+                # main logic loop for each step
+                for k in keys[cur]: # deals with keys
+                    if k in visit and status[k] == 0:
+                        status[k] = 1
+                        q.append(k)
+                        visit.remove(k)
+                    else: 
+                        status[k] = 1
+                # add new boxes to q
+                for box in containedBoxes[cur]:
+                    q.append(box)
         return numCandy
 
 
