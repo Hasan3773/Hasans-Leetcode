@@ -55,6 +55,7 @@ A collection of my solved leetcode questions!
 | [0136-single-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0136-single-number) |
 | [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0945-snakes-and-ladders](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of my solved leetcode questions!
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Linked List
 |  |
@@ -118,6 +120,7 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0945-snakes-and-ladders) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Matrix
 |  |
 | ------- |
