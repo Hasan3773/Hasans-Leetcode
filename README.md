@@ -15,6 +15,7 @@ A collection of my solved leetcode questions!
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0125-valid-palindrome) |
 | [1512-design-underground-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1512-design-underground-system) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -42,6 +43,7 @@ A collection of my solved leetcode questions!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0067-add-binary) |
 | [1708-design-parking-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1708-design-parking-system) |
 ## Counting
 |  |
@@ -60,6 +62,7 @@ A collection of my solved leetcode questions!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0136-single-number) |
 ## Database
 |  |
@@ -99,6 +102,7 @@ A collection of my solved leetcode questions!
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0067-add-binary) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Concurrency
