@@ -19,7 +19,5 @@ char* addBinary(char* a, char* b) {
         output[k--] = sum + '0';
     }
     if (k == -1) return output;
-    return output + k + 1;
-    
-    return output; 
+    return output + 1; // if we didnt use the spot for the carried 1    
 }
