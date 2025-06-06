@@ -56,6 +56,7 @@ A collection of my solved leetcode questions!
 | [0001-two-sum](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0137-single-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0945-snakes-and-ladders](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -64,6 +65,7 @@ A collection of my solved leetcode questions!
 | ------- |
 | [0067-add-binary](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0137-single-number-ii) |
 ## Database
 |  |
 | ------- |
