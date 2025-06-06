@@ -43,7 +43,6 @@ public:
             Node* curr = head;
             remove(node);
             add(node);
-            cout << "got: " << key << endl;
             return node->val;
         }
         return -1;
