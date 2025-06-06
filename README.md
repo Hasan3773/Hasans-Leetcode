@@ -8,6 +8,7 @@ A collection of my solved leetcode questions!
 | ------- |
 | [0001-two-sum](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0359-logger-rate-limiter](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0359-logger-rate-limiter) |
 | [1512-design-underground-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1512-design-underground-system) |
@@ -22,6 +23,7 @@ A collection of my solved leetcode questions!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0146-lru-cache) |
 | [0359-logger-rate-limiter](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0359-logger-rate-limiter) |
 | [1512-design-underground-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1512-design-underground-system) |
 | [1708-design-parking-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1708-design-parking-system) |
@@ -123,6 +125,7 @@ A collection of my solved leetcode questions!
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0146-lru-cache) |
 | [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 ## Breadth-First Search
 |  |
@@ -142,4 +145,8 @@ A collection of my solved leetcode questions!
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
