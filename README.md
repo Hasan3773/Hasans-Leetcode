@@ -115,6 +115,7 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1203-print-in-order) |
+| [1410-traffic-light-controlled-intersection](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1410-traffic-light-controlled-intersection) |
 ## Depth-First Search
 |  |
 | ------- |
