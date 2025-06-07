@@ -47,6 +47,7 @@ A collection of my solved leetcode questions!
 | ------- |
 | [0067-add-binary](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0067-add-binary) |
 | [1708-design-parking-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1708-design-parking-system) |
+| [1971-incremental-memory-leak](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1971-incremental-memory-leak) |
 ## Counting
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0067-add-binary) |
+| [1971-incremental-memory-leak](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1971-incremental-memory-leak) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Concurrency
