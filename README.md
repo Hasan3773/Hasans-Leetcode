@@ -107,6 +107,7 @@ A collection of my solved leetcode questions!
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0067-add-binary) |
 | [1971-incremental-memory-leak](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1971-incremental-memory-leak) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
