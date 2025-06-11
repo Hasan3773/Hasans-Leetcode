@@ -57,6 +57,7 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0015-3sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0137-single-number-ii) |
@@ -82,6 +83,7 @@ A collection of my solved leetcode questions!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0125-valid-palindrome) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Divide and Conquer
@@ -91,6 +93,7 @@ A collection of my solved leetcode questions!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0015-3sum) |
 | [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
