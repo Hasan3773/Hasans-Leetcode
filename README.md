@@ -18,12 +18,14 @@ A collection of my solved leetcode questions!
 | ------- |
 | [0067-add-binary](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0125-valid-palindrome) |
+| [0271-encode-and-decode-strings](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [1512-design-underground-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1512-design-underground-system) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0146-lru-cache) |
+| [0271-encode-and-decode-strings](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0359-logger-rate-limiter](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0359-logger-rate-limiter) |
 | [1512-design-underground-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1512-design-underground-system) |
 | [1708-design-parking-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1708-design-parking-system) |
@@ -61,6 +63,7 @@ A collection of my solved leetcode questions!
 | [0128-longest-consecutive-sequence](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0137-single-number-ii) |
+| [0271-encode-and-decode-strings](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0945-snakes-and-ladders](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
