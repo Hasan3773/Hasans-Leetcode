@@ -63,6 +63,7 @@ A collection of my solved leetcode questions!
 | [0128-longest-consecutive-sequence](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0137-single-number-ii) |
+| [0200-number-of-islands](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0200-number-of-islands) |
 | [0271-encode-and-decode-strings](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0945-snakes-and-ladders](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -127,6 +128,7 @@ A collection of my solved leetcode questions!
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0200-number-of-islands) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
 |  |
@@ -141,11 +143,13 @@ A collection of my solved leetcode questions!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0945-snakes-and-ladders) |
 ## Combinatorics
 |  |
@@ -160,4 +164,8 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0146-lru-cache) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
