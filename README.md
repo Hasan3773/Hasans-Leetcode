@@ -9,6 +9,7 @@ A collection of my solved leetcode questions!
 | [0001-two-sum](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0146-lru-cache) |
+| [0268-missing-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0359-logger-rate-limiter](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0359-logger-rate-limiter) |
 | [1512-design-underground-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1512-design-underground-system) |
@@ -64,6 +65,7 @@ A collection of my solved leetcode questions!
 | [0136-single-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0137-single-number-ii) |
 | [0200-number-of-islands](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0945-snakes-and-ladders](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0945-snakes-and-ladders) |
@@ -74,6 +76,7 @@ A collection of my solved leetcode questions!
 | [0067-add-binary](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0268-missing-number) |
 ## Database
 |  |
 | ------- |
@@ -98,6 +101,7 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -116,6 +120,7 @@ A collection of my solved leetcode questions!
 | ------- |
 | [0007-reverse-integer](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0268-missing-number) |
 | [1971-incremental-memory-leak](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1971-incremental-memory-leak) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -168,4 +173,8 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0200-number-of-islands) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
