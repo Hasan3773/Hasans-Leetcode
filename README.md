@@ -64,6 +64,7 @@ A collection of my solved leetcode questions!
 | [0128-longest-consecutive-sequence](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0271-encode-and-decode-strings) |
@@ -92,6 +93,7 @@ A collection of my solved leetcode questions!
 | ------- |
 | [0015-3sum](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Divide and Conquer
 |  |
@@ -176,5 +178,6 @@ A collection of my solved leetcode questions!
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
