@@ -140,6 +140,7 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0200-number-of-islands) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Graph
 |  |
@@ -192,4 +193,12 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0392-is-subsequence) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
