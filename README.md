@@ -20,6 +20,7 @@ A collection of my solved leetcode questions!
 | [0067-add-binary](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0125-valid-palindrome) |
 | [0271-encode-and-decode-strings](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0271-encode-and-decode-strings) |
+| [0392-is-subsequence](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0392-is-subsequence) |
 | [1512-design-underground-system](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1512-design-underground-system) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Design
@@ -96,6 +97,7 @@ A collection of my solved leetcode questions!
 | [0015-3sum](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0392-is-subsequence) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Divide and Conquer
 |  |
@@ -186,4 +188,8 @@ A collection of my solved leetcode questions!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
