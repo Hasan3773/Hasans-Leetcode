@@ -4,14 +4,10 @@ public:
         int most_candies = 0;
         vector<bool> result;
         for (int i = 0; i < candies.size(); i++){
-            if (candies[i] > most_candies)
-                most_candies = candies[i];
+            most_candies = max(candies[i], most_candies);
         }
         for (int j = 0; j < candies.size(); j++){
-            if (candies[j] + extraCandies >= most_candies)
-                result.push_back(true);
-            else 
-                result.push_back(false);
+            result.push_back(candies[j] + extraCandies >= most_candies);
         }
         return result;
     }
