@@ -73,6 +73,7 @@ A collection of my solved leetcode questions!
 | [0347-top-k-frequent-elements](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0945-snakes-and-ladders](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Hasan3773/Hasans-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Bit Manipulation
 |  |
 | ------- |
